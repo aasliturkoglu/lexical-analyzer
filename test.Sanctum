@@ -1,0 +1,27 @@
+a = 5;
+str = "berkay";
+b=3.4
+a == b
+(
+)
+{
+}
+:
+3%4
+3<4
+4>3
+c ="berkay , mustafa"
+3 !=4
+2
+5.5
+2+3
+3-2
+4/2
+4*3
+for
+while
+printf
+if
+else
+isPrime
+//
